@@ -1,3 +1,10 @@
+# First React App
+This is a simple SPA using React and Jikan REST API to search for any anime/manga/etc. from MyAnimeList. This SPA was based off the JavaScript Mastery tutorial.
+
+## References
+- Tutorial - https://www.youtube.com/watch?v=b9eMGE7QtTk
+- Jikan REST API - https://jikan.moe/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
